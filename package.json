@@ -16,7 +16,7 @@
     "path": "^0.12.7",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "webpack": "^3.5.5",
+    "webpack": "^5.44.0",
     "webpack-dev-server": "^2.7.1"
   },
   "devDependencies": {
